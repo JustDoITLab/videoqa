@@ -1,0 +1,10 @@
+numpy
+pandas
+pillow
+keras
+tensorflow_gpu==1.10.0
+nltk
+scikit-learn
+opencv-python
+tables
+scikit-video==1.1.8
